@@ -1,0 +1,3 @@
+<img src="/gambar.jpg" with="100%">
+
+CHATGPT_API_KEY=.....
